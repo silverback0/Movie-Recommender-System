@@ -11,3 +11,9 @@ Made a mobile application connected with Firebase which recommends movies based 
 2. Search movies by title
 3. Add movies to favorite list
 4. Browse movie by genre
+
+# Photos
+
+![mrs1](https://user-images.githubusercontent.com/31804051/121807000-aa8f0a00-cc6b-11eb-8e9c-0d88d2f0b713.jpeg)
+
+![mrs2](https://user-images.githubusercontent.com/31804051/121807003-abc03700-cc6b-11eb-8ac8-dfc70a19ab7f.jpeg)
